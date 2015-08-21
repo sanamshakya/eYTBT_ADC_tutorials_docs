@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ADC_block_diagram.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4021"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4024"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path4042"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="324.69476"
+     inkscape:cy="773.06453"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.10408258;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 76.889347,70.760296 621.103853,0"
+       id="path2987"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0;fill:#008000;stroke:#717185;stroke-width:0.99921262;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2989"
+       width="70"
+       height="50"
+       x="80"
+       y="122.36218"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0;fill:#008000;stroke:#717185;stroke-width:0.99921262;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2991"
+       width="60"
+       height="50"
+       x="50"
+       y="122.36218"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0;fill:#000000;stroke:#717185;stroke-width:0.999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="rect3761"
+       width="150"
+       height="100"
+       x="70"
+       y="122.36218"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0;fill:#000000;fill-opacity:1;stroke:#717185;stroke-width:0.99900001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3771"
+       width="140"
+       height="80"
+       x="130"
+       y="282.36218"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0;fill:#000000;fill-opacity:1;stroke:#717185;stroke-width:0.999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3773"
+       width="140"
+       height="110"
+       x="90"
+       y="162.36218"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3873"
+       transform="translate(0,-2.5253813)"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         rx="17.172594"
+         ry="15.152287"
+         y="158.37718"
+         x="117.1777"
+         height="123.23862"
+         width="144.45181"
+         id="rect3867"
+         style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3871"
+         d="M 118.18785,234.13862 260,232.36218 l 0,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3877"
+       transform="translate(183.84776,-2.5253813)"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3879"
+         width="144.45181"
+         height="123.23862"
+         x="117.1777"
+         y="158.37718"
+         ry="15.152287"
+         rx="17.172594" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 118.18785,234.13862 260,232.36218 l 0,0"
+         id="path3881"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(367.69553,-2.5253813)"
+       id="g3883"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         rx="17.172594"
+         ry="15.152287"
+         y="158.37718"
+         x="117.1777"
+         height="123.23862"
+         width="144.45181"
+         id="rect3885"
+         style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3887"
+         d="M 118.18785,234.13862 260,232.36218 l 0,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <rect
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3891"
+       width="90"
+       height="60"
+       x="120"
+       y="352.36218"
+       rx="17.172594"
+       ry="15.152287"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2.05020952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3893"
+       width="59.949791"
+       height="231.37836"
+       x="130.0251"
+       y="450.95871"
+       rx="17.158224"
+       ry="15.93596"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3895"
+       width="140"
+       height="60"
+       x="315.71429"
+       y="330.93362"
+       rx="17.172594"
+       ry="15.152287"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2.47502661;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3897"
+       width="185.23926"
+       height="59.524975"
+       x="520.23749"
+       y="382.5997"
+       rx="26.508656"
+       ry="15.032324"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3901"
+       sodipodi:sides="3"
+       sodipodi:cx="490"
+       sodipodi:cy="582.36218"
+       sodipodi:r1="80.622574"
+       sodipodi:r2="40.311291"
+       sodipodi:arg1="2.0899424"
+       sodipodi:arg2="3.13714"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 450,652.36218 449.37822,512.72117 570.62177,582.0032 z"
+       inkscape:transform-center-x="-18.556485"
+       inkscape:transform-center-y="0.13318221"
+       transform="matrix(0.92782424,0,0,0.74201731,117.11676,179.58009)"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3905"
+       width="40"
+       height="20"
+       x="40"
+       y="342.36218"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="10"
+       rx="10"
+       y="370.93362"
+       x="40"
+       height="20"
+       width="40"
+       id="rect3907"
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3909"
+       width="40"
+       height="20"
+       x="40"
+       y="396.64792"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="10"
+       rx="10"
+       y="464.50507"
+       x="38.57143"
+       height="20"
+       width="40"
+       id="rect3911"
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3913"
+       width="40"
+       height="20"
+       x="39.285713"
+       y="492.36221"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="10"
+       rx="10"
+       y="522.36224"
+       x="37.857143"
+       height="20"
+       width="40"
+       id="rect3915"
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3917"
+       width="40"
+       height="20"
+       x="40"
+       y="646.64795"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="150"
+       y="192.36218"
+       id="text3919"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3921"
+         x="150"
+         y="192.36218">Multiplexer</tspan><tspan
+         sodipodi:role="line"
+         x="150"
+         y="209.86218"
+         id="tspan3923">Control</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="340"
+       y="192.36218"
+       id="text3925"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3927"
+         x="340"
+         y="192.36218">Control &amp;</tspan><tspan
+         sodipodi:role="line"
+         x="340"
+         y="209.86218"
+         id="tspan3929">Status</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="520"
+       y="202.36218"
+       id="text3931"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3933"
+         x="520"
+         y="202.36218">ADC Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="160"
+       y="252.36218"
+       id="text3935"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3937"
+         x="160"
+         y="252.36218">ADMUX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="340"
+       y="252.36218"
+       id="text3939"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3941"
+         x="340"
+         y="252.36218">ADCSRA,</tspan><tspan
+         sodipodi:role="line"
+         x="340"
+         y="269.86218"
+         id="tspan3943">ADCSRB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="524.26917"
+       y="252.32137"
+       id="text3945"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3947"
+         x="524.26917"
+         y="252.32137">ADCH, </tspan><tspan
+         sodipodi:role="line"
+         x="524.26917"
+         y="269.82135"
+         id="tspan3949">ADCL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="140"
+       y="382.36218"
+       id="text3951"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3953"
+         x="140"
+         y="382.36218">Ref. </tspan><tspan
+         sodipodi:role="line"
+         x="140"
+         y="399.86218"
+         id="tspan3955">Mux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="340"
+       y="372.36218"
+       id="text3957"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3959"
+         x="340"
+         y="372.36218">Clock Prescale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="560"
+       y="412.36218"
+       id="text3961"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3963"
+         x="560"
+         y="412.36218">Conversion</tspan><tspan
+         sodipodi:role="line"
+         x="560"
+         y="429.86218"
+         id="tspan3965">Logic</tspan><tspan
+         sodipodi:role="line"
+         x="560"
+         y="447.36218"
+         id="tspan3967" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="347.49249"
+       y="536.17426"
+       id="text3969"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3971"
+         x="347.49249"
+         y="536.17426"></tspan><tspan
+         sodipodi:role="line"
+         id="tspan3973"
+         x="347.49249"
+         y="553.67426" /></text>
+    <g
+       id="g7275"
+       transform="translate(0,40)"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="15.152287"
+         rx="17.172594"
+         y="512.36218"
+         x="320"
+         height="50"
+         width="140"
+         id="rect3899"
+         style="opacity:0.85596708;fill:#f4e3d7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3975"
+         y="542.36218"
+         x="350"
+         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="542.36218"
+           x="350"
+           id="tspan3977"
+           sodipodi:role="line">10-bit DAC</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="541.44177"
+       y="617.99658"
+       id="text3979"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3981"
+         x="541.44177"
+         y="617.99658">Comparator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="46.520996"
+       y="356.0072"
+       id="text3987"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3989"
+         x="46.520996"
+         y="356.0072">1.1 V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="46.730957"
+       y="384.57376"
+       id="text3991"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3993"
+         x="46.730957"
+         y="384.57376">AVCC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="47.316895"
+       y="410.29294"
+       id="text3995"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3997"
+         x="47.316895"
+         y="410.29294">AREF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="44.921528"
+       y="478.1452"
+       id="text3999"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4001"
+         x="44.921528"
+         y="478.1452">ADC0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="45.765205"
+       y="506.00235"
+       id="text4003"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4005"
+         x="45.765205"
+         y="506.00235">ADC1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="44.375698"
+       y="536.00238"
+       id="text4007"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4009"
+         x="44.375698"
+         y="536.00238">ADC2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="44.853516"
+       y="660.28809"
+       id="text4011"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4013"
+         x="44.853516"
+         y="660.28809">ADC 7</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.796;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 158.88277,278.82362 0,74.06096"
+       id="path6511"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6697"
+       d="m 354.85166,281.69787 0,49.41132"
+       style="fill:none;stroke:#000000;stroke-width:1.98375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend)"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.02348232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend)"
+       d="m 582.60659,381.27091 -0.78251,-95.60603"
+       id="path6699"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80,352.36218 40,10 0,0"
+       id="path7077"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80,382.36218 40,0"
+       id="path7079"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80,402.36218 40,-10"
+       id="path7081"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80,472.36218 50,0"
+       id="path7083"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80,502.36218 50,0"
+       id="path7085"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80,532.36218 50,0"
+       id="path7087"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80,652.36218 50,0"
+       id="path7089"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.05025065px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 190.02513,632.36207 344.14426,0 0,0"
+       id="path7091"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.08465767px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 460.04233,572.36218 71.34391,0"
+       id="path7280"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.71332991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
+       d="m 318.58837,582.38485 -29.16319,0 c 0,0 -19.44213,0 -19.44213,-20.01981 0,-20.01981 0,-20.01981 0,-20.01981"
+       id="path7470"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.76125;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 210,392.36218 30,0 c 0,0 -30,0 0,0 30,0 30,20 30,20"
+       id="path7476"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.76125;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 270,412.36218 c 0,130 0,130 0,130"
+       id="path7478"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.96375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 644.33005,612.31785 c 44.89184,0 44.89184,-39.97914 44.89184,-39.97914 l 0,-129.9322"
+       id="path8406"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-614.86578"
+       y="150.0916"
+       id="text8594"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.01614657,-0.99986964,0.99986964,-0.01614657,0,0)"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan8596"
+         x="-614.86578"
+         y="150.0916">Input Multiplexer</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 180,152.36218 0,-79.999997"
+       id="path8636"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 380,152.36218 0,-79.999997"
+       id="path8638"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 560,152.36218 0,-79.999997"
+       id="path8640"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.98557973;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 380.18029,383.97104 c 0,26.19687 22.79705,26.19687 22.79705,26.19687 l 113.98523,0 0,0"
+       id="path10332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.03928137;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 519.91786,432.44432 -99.90192,0 c 0,0 59.94115,0 0,0 -59.94116,0 -59.94116,71.04429 -59.94116,71.04429 l 0,47.36286"
+       id="path10520"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 240,272.36218 c 0,0 0,120 0,180 0,60 -20,60 -20,60"
+       id="path10708"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 200,512.36218 z"
+       id="path10710"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.55760074;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 215.26124,511.28485 -25.88636,2.53865"
+       id="path10712"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-10.548996"
+       inkscape:transform-center-y="-10.207458"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="280"
+       y="58.076469"
+       id="text11272"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erts/adc_blocks.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11274"
+         x="280"
+         y="58.076469"
+         style="font-size:16px">Data bus</tspan></text>
+  </g>
+</svg>
